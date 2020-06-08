@@ -1,2 +1,2 @@
-# AppPos-API
-Create Aplication Pos API
+# PosApp-API
+Create PosApp-API
